@@ -70,7 +70,7 @@ endmodule
 
 
 **RTL realization**
-[image](https://github.com/Hariveeraprasad-2006/BOOLEAN_FUNCTION_MINIMIZATION/assets/145049988/c4ccc351-335d-4f44-9673-512f1d2a0dd5)
+![image](https://github.com/Hariveeraprasad-2006/BOOLEAN_FUNCTION_MINIMIZATION/assets/145049988/c4ccc351-335d-4f44-9673-512f1d2a0dd5)
 
 **Output:**
 ![image](https://github.com/Hariveeraprasad-2006/BOOLEAN_FUNCTION_MINIMIZATION/assets/145049988/b5613c8c-d088-4737-8149-18af1386c27a)
